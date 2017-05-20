@@ -6,6 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: GW+0RDNAuXfA/WsELQSWRcKsUea1XMgikZQiZ6HYb263g6EtJG9nS0phHDSXFBsUx5jdube1Iy6Ig0Qxu+WRR6rdBDMwNuMPyI2CosyY1pCieXYRlpW2Aq9nPZXOM++VIfcJiUQe22a9+tcvticNVJ2iwkDT5yfkQxJP6cMw8HOaw7KEtvFZh+WMdYmw1sWt5JXeM6tWsIr5juhC2L45BBZZ7lmqaOcC56BYJ1GxjrHsC/mBx0eL5fNBgnb9WiD2VaQX3HoSC27j0l3WS1ZzwzhGUz6bBmex6S32gf6nXN6tkO6rV4MombHtebh60SskF1/2JjWafUBiWbZriQ1fzfLKC/QcXqph7tTM4fzDQmKo6ud88gzTfQCkfubDzgtl8+GByRn+dxZNvlcttW3i3/EpqTQoZe6ULruJMf/ZfjZUqTmkyXxjFigWhk2aWgqqJOxA6eQWDLC1mq48nQeevz91DP/8px0jh4Be9rktxIwwtrH1+XTJTj8EStoRGVPUBIqqPYK+J+E5iF1RP8qEVA9yFnBNB7tmibVaQsVzSapzG/Cdiq04ux+KpBogR/B9j84qpMShFXC7Fd2tUBSIMiW5cujK+4Il0/KRQ4ZPHlX+aCHr6G+kGrPFSvj9tltm1gghnPFKz1fLkEmF/7jKtuwKewC4V0YIKMnhEjwNNFo=
-  app: https://powerful-bastion-96339.herokuapp.com/
+  app: powerful-bastion-96339
   on:
     repo: brittanyrw/blog-app-mongoose-ci
